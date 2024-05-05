@@ -1,0 +1,35 @@
+.ContainerInfo{
+  padding: 10px;
+}
+
+.ContainerInfoText{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: sans-serif;
+}
+
+.ContainerInfoUl{
+  list-style: none;
+  text-align: start;
+  color: rgb(0, 58, 128);
+}
+
+.title{
+  font-size: 30px;
+}
+
+.title1{
+  font-size: 15px;
+  font-size: smaller;
+}
+
+.title2{
+  font-size: 20px;
+}
+
+.titleContainer{
+  font-family: sans-serif;
+  color: rgb(0, 58, 128);
+}
+

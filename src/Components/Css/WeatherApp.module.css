@@ -1,0 +1,10 @@
+.Container{
+  background-color: white;
+  width: 650px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  box-shadow: 5px 2px 20px 0px;
+  text-align: center;
+  background-color: aliceblue;
+}
+
